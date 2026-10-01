@@ -1,0 +1,2 @@
+# Files the Mac creates by itself in every folder; they don't belong on GitHub.
+.DS_Store
